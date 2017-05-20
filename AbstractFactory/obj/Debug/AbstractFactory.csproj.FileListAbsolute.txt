@@ -1,0 +1,5 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,4 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\SomeIssues\bin\Debug\SomeIssues.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\SomeIssues\bin\Debug\SomeIssues.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\SomeIssues\obj\Debug\SomeIssues.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\SomeIssues\obj\Debug\SomeIssues.pdb

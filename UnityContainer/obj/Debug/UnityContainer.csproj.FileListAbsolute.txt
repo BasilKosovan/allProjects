@@ -1,0 +1,15 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\obj\Debug\UnityContainer.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\UnityContainer.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\UnityContainer.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\UnityContainer.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\obj\Debug\UnityContainer.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\obj\Debug\UnityContainer.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\UnityContainer\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

@@ -1,0 +1,6 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\bin\Debug\TestApp.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\bin\Debug\TestApp.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\obj\Debug\TestApp.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\TestApp\obj\Debug\TestApp.pdb

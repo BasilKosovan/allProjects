@@ -1,0 +1,8 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\bin\Debug\parseFileForGettingVerbs.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\bin\Debug\parseFileForGettingVerbs.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\bin\Debug\parseFileForGettingVerbs.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\bin\Debug\itextsharp.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\bin\Debug\itextsharp.xml
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\obj\Debug\parseFileForGettingVerbs.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\obj\Debug\parseFileForGettingVerbs.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\parseFileForGettingVerbs\obj\Debug\parseFileForGettingVerbs.pdb

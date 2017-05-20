@@ -1,0 +1,5 @@
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.dll
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.dll
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

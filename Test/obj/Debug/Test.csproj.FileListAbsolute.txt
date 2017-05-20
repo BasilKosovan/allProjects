@@ -1,0 +1,10 @@
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\Test.exe.config
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\Test.exe
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\Test.pdb
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\obj\Debug\Test.exe
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\obj\Debug\Test.pdb
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\FactoryMethod.dll
+c:\users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\FactoryMethod.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\AbstractFactory.dll
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Test\bin\Debug\AbstractFactory.pdb

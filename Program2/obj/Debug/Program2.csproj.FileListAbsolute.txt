@@ -1,0 +1,6 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\bin\Debug\Program2.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\bin\Debug\Program2.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\bin\Debug\Program2.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\obj\Debug\Program2.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\Program2\obj\Debug\Program2.pdb

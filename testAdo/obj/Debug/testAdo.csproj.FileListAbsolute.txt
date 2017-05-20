@@ -1,0 +1,6 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\bin\Debug\testAdo.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\bin\Debug\testAdo.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\bin\Debug\testAdo.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\obj\Debug\testAdo.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\obj\Debug\testAdo.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\testAdo\obj\Debug\testAdo.pdb

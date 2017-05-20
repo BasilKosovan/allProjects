@@ -1,0 +1,1 @@
+﻿CREATE SCHEMA [word] AUTHORIZATION [dbo]

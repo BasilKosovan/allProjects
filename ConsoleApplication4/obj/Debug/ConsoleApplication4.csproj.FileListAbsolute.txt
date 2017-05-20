@@ -1,0 +1,6 @@
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\basil\onedrive\документы\visual studio 2015\Projects\DesignPatterns\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
